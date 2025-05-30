@@ -1,1 +1,1 @@
-# week1StockPriceDataAnalysis
+"Nova Analyst Project on stock price" 
